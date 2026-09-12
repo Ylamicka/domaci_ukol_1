@@ -8,5 +8,6 @@ public class Main {
         System.out.printf("Kreslil jsem");
         System.out.printf("Spal jsem");
         System.out.printf("Jedl jsem");
+        System.out.printf("Výletoval jsem");
     }
 }
