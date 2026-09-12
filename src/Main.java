@@ -12,3 +12,4 @@ public class Main {
         System.out.printf("Ondra, Planeta země, Mladší než 54, Xiaomi redmi 12, bycek_ondrej@oauh.cz");
     }
 }
+.
