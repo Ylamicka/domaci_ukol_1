@@ -7,6 +7,6 @@ public class Main {
         System.out.printf("Hrál jsem hry");
         System.out.printf("Kreslil jsem");
         System.out.printf("Spal jsem");
-
+        System.out.printf("Jedl jsem");
     }
 }
