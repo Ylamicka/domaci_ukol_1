@@ -6,6 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hrál jsem hry");
         System.out.printf("Kreslil jsem");
+        System.out.printf("Spal jsem");
 
     }
 }
